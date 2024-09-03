@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Deep work",
+        "title": "Rules for Focused Success in a Distracted World",
+        "price": 20,
+        "category": "Non-Fiction",
+        "image": "https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158585.jpg?t=st=1725283773~exp=1725287373~hmac=751cd54c3ae233eff5431d9f4a1e075eff8f8bb0b98cb6c5b6115ed930d88fb6&w=1060"
+    },
+    {
+        "id": 2,
+        "name": "The Alchemist ",
+        "title": "journey to find treasure and happiness",
+        "price": 20,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158585.jpg?t=st=1725283773~exp=1725287373~hmac=751cd54c3ae233eff5431d9f4a1e075eff8f8bb0b98cb6c5b6115ed930d88fb6&w=1060"
+    },
+    {
+        "id": 3,
+        "name": "Clean Code",
+        "title": "A Handbook of Agile Software Craftsmanship",
+        "price": 20,
+        "category": "Programming",
+        "image": "https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158585.jpg?t=st=1725283773~exp=1725287373~hmac=751cd54c3ae233eff5431d9f4a1e075eff8f8bb0b98cb6c5b6115ed930d88fb6&w=1060"
+    },
+    {
+        "id": 4,
+        "name": "Thinking, Fast and Slow",
+        "title": "systems shape our judgments and choices",
+        "price": 20,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158585.jpg?t=st=1725283773~exp=1725287373~hmac=751cd54c3ae233eff5431d9f4a1e075eff8f8bb0b98cb6c5b6115ed930d88fb6&w=1060"
+    },
+    {
+        "id": 5,
+        "name": "Dune",
+        "title": "feudal interstellar society",
+        "price": 20,
+        "category": "Science Fiction",
+        "image": "https://imgs.search.brave.com/8C_wrGOyTXucj0rKPi1ek4LuKjjSQmkxQMzGWQ0nTas/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kdW5l/bmV3c25ldC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDQvRHVuZS1QYXJ0/LU9uZS1UaGUtUGhv/dG9ncmFwaHktYm9v/ay1jb3Zlci0xMDI0/eDkxNy5qcGc"
+    },
+    {
+        "id": 6,
+        "name": "Comedy",
+        "title": "Joy of life",
+        "price": "$0",
+        "category": "free",
+        "image": "https://imgs.search.brave.com/9KhH3Rvt0OXf-8tUkMMqDVBDRRTgaXpyPWRWML6j7w0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9pbmRl/eHgtMy0xNjU5OTcx/NzMyLmpwZz9jcm9w/PTAuNTAyeHc6MS4w/MHhoOzAuMjUweHcs/MCZyZXNpemU9NjQw/Oio"
+    },
+    {
+        "id": 7,
+        "name": "Art of not giving fu*k ",
+        "title": "Approach to Living a Good Life",
+        "price":"$0",
+        "category": "free",
+        "image": "https://imgs.search.brave.com/PZaS_2s1RS___VjY912Y0pvtnDZv1wLv_vRliIA6BUo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/Yzg2NWNhOTctMzNj/MC00N2UwLTlhMTMt/YTMyOTU5MmY5Njk0/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn"
+    },
+    {
+        "id": 8,
+        "name": "Sapiens",
+        "title": "A Brief History of Humankind",
+        "price": "$0",
+        "category": "free",
+        "image": "https://imgs.search.brave.com/5EqDtCExOUmnHcK4cExXnNVXKjb21GVd4LJCXs8eUhU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYmxpbmtpc3Qu/aW8vaW1hZ2VzL2Jv/b2tzLzU1OTI2NmFj/NjU2MTM4MDAwN2Rh/MDAwMC8xXzEvNDcw/LmpwZw"
+    },
+    {
+        "id": 9,
+        "name": "The Pragmatic Programmer",
+        "title": "Your Journey to Mastery",
+        "price": "$0",
+        "category": "free",
+        "image": "https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1725208333~exp=1725211933~hmac=0ac2ee1936876d20d3a2810d0f8efe385df5c383315ddcc938962e7039cd3b6a&w=740"
+    },
+    {
+        "id": 10,
+        "name": "The Road",
+        "title": "Rules for Focused Success in a Distracted World",
+        "price": "$0",
+        "category": "free",
+        "image": "https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1725208333~exp=1725211933~hmac=0ac2ee1936876d20d3a2810d0f8efe385df5c383315ddcc938962e7039cd3b6a&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Man's Search for Meaning",
+        "title": "approach to finding meaning in suffering",
+        "price": "$0",
+        "category": "free",
+        "image": "https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1725208333~exp=1725211933~hmac=0ac2ee1936876d20d3a2810d0f8efe385df5c383315ddcc938962e7039cd3b6a&w=740"
+    }
+]
