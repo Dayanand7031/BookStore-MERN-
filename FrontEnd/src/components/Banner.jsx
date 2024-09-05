@@ -28,7 +28,7 @@ function Banner() {
                                 <input type="text" className="grow" placeholder="Enter your Email to login" />
                             </label>
                         </div>
-                        <button className='bg-pink-600 text-white px-3 py-1 border rounded-md'>Secondary</button>
+                        <button className='bg-pink-600 text-white px-3 py-1 border rounded-md'>Get Started</button>
 
                     </div>
                 </div>
